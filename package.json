@@ -1,0 +1,9 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Data structures in JavaScript, built from scratch with tests",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "ISC"
+}
